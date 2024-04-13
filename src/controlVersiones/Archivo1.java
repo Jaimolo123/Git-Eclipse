@@ -8,5 +8,5 @@ public class Archivo1 {
 	
 	int var3;
 	
-	int var4;
+	String nombre;
 }
