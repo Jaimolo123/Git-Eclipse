@@ -9,6 +9,4 @@ public class Archivo1 {
 	int var3;
 	
 	int var4;
-	
-	int var5;
 }
