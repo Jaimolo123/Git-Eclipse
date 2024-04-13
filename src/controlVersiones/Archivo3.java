@@ -10,6 +10,6 @@ public class Archivo3 {
 	
 	String ID;
 
-	String ID;
+	
 
 }
