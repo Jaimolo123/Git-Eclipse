@@ -8,5 +8,8 @@ public class Archivo3 {
 	
 	int var3;
 	
-	String id;
+	String ID;
+
+	String ID;
+
 }
