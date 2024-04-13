@@ -8,5 +8,5 @@ public class Archivo3 {
 	
 	int var3;
 	
-	int var4;
+	String id;
 }
